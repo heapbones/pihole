@@ -1,0 +1,2 @@
+127.0.0.1 hooliganmedia.com
+127.0.0.1 cdn.hooliganmedia.com
