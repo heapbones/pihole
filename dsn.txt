@@ -1,1 +1,2 @@
 0.0.0.0 hooliganmedia.com
+0.0.0.0 cdn.hooliganmedia.com
