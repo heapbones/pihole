@@ -1612,3 +1612,6 @@
 0.0.0.0 ui.addroplet.com
 0.0.0.0 www.addroplet.com
 0.0.0.0 addroplet.com
+0.0.0.0 addtakingcontinuous.com
+0.0.0.0 addthief.com
+0.0.0.0 adenza.dev
