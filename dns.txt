@@ -52425,3 +52425,9 @@
 0.0.0.0 873ag.justthegays.com
 0.0.0.0 oi.fapnado.com
 0.0.0.0 ok.4wank.net
+0.0.0.0 static.wlct-two.de
+0.0.0.0 www.wlct-two.de
+0.0.0.0 wlct-two.de
+0.0.0.0 static.wlt-jupiter.de
+0.0.0.0 www.wlt-jupiter.de
+0.0.0.0 wlt-jupiter.de
